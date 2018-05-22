@@ -1,6 +1,6 @@
 # html
-[w3schools Menu](https://www.w3schools.com/html/html5_intro.asp)
-[Mozilla Developer](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+### [w3schools Menu](https://www.w3schools.com/html/html5_intro.asp)
+### [Mozilla Developer](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 
 ## Basics
 - [ ] HTML Editors
